@@ -18,5 +18,17 @@ Also, Dart is much easier than I thought may because I start learning
 
 **Tutorial links:**
 1. [Operators](https://www.tutorialspoint.com/dart_programming/dart_programming_operators.htm)
-1. [Loops](https://www.tutorialspoint.com/dart_programming/dart_programming_loops.htm)
+2. [Loops](https://www.tutorialspoint.com/dart_programming/dart_programming_loops.htm)
 3. [Decision Making](https://www.tutorialspoint.com/dart_programming/dart_programming_decision_making.htm)
+
+
+### Day 3: Tuesday, April 21, 2020
+
+**Today's Progress**: Studying Numbers, Strings, Booleans, Lists, Maps in Dart
+
+**Tutorial links:**
+1. [Numbers](https://www.tutorialspoint.com/dart_programming/dart_programming_numbers.htm)
+2. [Strings](https://www.tutorialspoint.com/dart_programming/dart_programming_string.htm)
+3. [Booleans](https://www.tutorialspoint.com/dart_programming/dart_programming_boolean.htm)
+4. [Lists](https://www.tutorialspoint.com/dart_programming/dart_programming_lists.htm)
+5. [Maps](https://www.tutorialspoint.com/dart_programming/dart_programming_map.htm)
