@@ -32,3 +32,12 @@ Also, Dart is much easier than I thought may because I start learning
 3. [Booleans](https://www.tutorialspoint.com/dart_programming/dart_programming_boolean.htm)
 4. [Lists](https://www.tutorialspoint.com/dart_programming/dart_programming_lists.htm)
 5. [Maps](https://www.tutorialspoint.com/dart_programming/dart_programming_map.htm)
+
+### Day 4: Wednesday, April 22, 2020
+
+**Today's Progress**: 
+- Studying [Functions](https://www.tutorialspoint.com/dart_programming/dart_programming_functions.htm) in Dart
+- Build my first app with Flutter [I am Rich App](https://github.com/markshenouda/i_am_rich)
+![I am Rich App screenshot](./images/1.jpg)
+
+
